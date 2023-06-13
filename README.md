@@ -49,13 +49,29 @@ An API was established with OpenWeatherMap and a DataFrame was created to get th
 Global city data was plotted, and linear regression was used to find the relationship between the following variables:
 
 Latitude and Maximum Temperature
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/145f0f9b-1652-4044-8026-c418f39559ce)
 Latitude and Humidity
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/36f31809-2487-4680-af7f-03c9d3246885)
 Latitude and Cloudiness
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/eb882828-ea92-4dc2-aa52-3db1233a0325)
 Latitude and Wind Speed
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/8c47aefe-8f0c-4976-a0a1-5b3f4103e3b1)
 
-![image](https://github.com/Jad95/python-api-challenge/assets/130928755/145f0f9b-1652-4044-8026-c418f39559ce) ,  ![image](https://github.com/Jad95/python-api-challenge/assets/130928755/36f31809-2487-4680-af7f-03c9d3246885)   ,  ![image](https://github.com/Jad95/python-api-challenge/assets/130928755/eb882828-ea92-4dc2-aa52-3db1233a0325)  ,  ![image](https://github.com/Jad95/python-api-challenge/assets/130928755/8c47aefe-8f0c-4976-a0a1-5b3f4103e3b1)
+# Linear Regression on the Northern and Southern Hemispheres
+Linear regression was performed for the Northern and Southern Hemispheres, on all four weather parameters: maximum temperature, humidity, cloudiness, and wind speed.
 
+Maximum Temperature
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/509c2559-fa31-4db8-b1ca-893568b4cb6f)
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/f78dc0f5-b181-4e34-9bdf-2d9029282cfc)
 
-       
+Percent Humidity
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/2b5e8762-7905-4718-bd7a-625264684b1f)
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/044233f4-a39e-4d1b-aea9-315eed6afae9)
 
+Percent Cloudiness
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/56666509-f6ff-48b8-9b4f-58e7d519682a)
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/3a2c70f5-f9bf-40af-a282-ccf8a439ee3d)
 
+Wind Speed
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/e7c3ee6d-dc4e-4d30-9788-433c299c7ba8)
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/adf27856-0698-4e74-a5f7-ea769fde8c99)
