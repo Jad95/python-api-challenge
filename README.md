@@ -53,3 +53,9 @@ Latitude and Humidity
 Latitude and Cloudiness
 Latitude and Wind Speed
 
+![image](https://github.com/Jad95/python-api-challenge/assets/130928755/145f0f9b-1652-4044-8026-c418f39559ce) ,  ![image](https://github.com/Jad95/python-api-challenge/assets/130928755/36f31809-2487-4680-af7f-03c9d3246885)   ,  ![image](https://github.com/Jad95/python-api-challenge/assets/130928755/eb882828-ea92-4dc2-aa52-3db1233a0325)  ,  ![image](https://github.com/Jad95/python-api-challenge/assets/130928755/8c47aefe-8f0c-4976-a0a1-5b3f4103e3b1)
+
+
+       
+
+
